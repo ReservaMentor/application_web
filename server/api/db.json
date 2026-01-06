@@ -39,27 +39,8 @@
   "customers": [
     {
       "id": 1,
-      "name": "Henry Antonio Mendoza Puerta",
-      "email": "hmendo81@example.com"
-    },
-    {
-      "id": 2,
       "name": "Jane Doe",
       "email": "jane@example.com"
-    },
-    {
-      "firstName": "ibrahim imanol jordi",
-      "lastName": "arquinigo jacinto",
-      "email": "imanolaij@gmail.com",
-      "password": "password123456@",
-      "id": 3
-    },
-    {
-      "firstName": "ibrahim imanol jordi",
-      "lastName": "arquinigo jacinto",
-      "email": "imanolaij@gmail.com",
-      "password": "password123456@",
-      "id": 4
     },
     {
       "firstName": "pablo",
